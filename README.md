@@ -53,7 +53,7 @@ public ViewResult Index(string sortOrder, string currentFilter, string searchStr
 *Jump to: [page top](#live-project), [introduction](#introduction), [adding search and pagination](#adding-search-and-pagination), [index page styling](#index-page-styling), [conclusion](#conclusion)*
 
 ## Index page styling
-One of my tasks was to style the index page of the productions area so that each production appeared as a card. I replaced the default index skeleton with a bootstrap card skeleton within a `foreach` loop to show each production in the model. I placed bootstrap pills linking to the Edit and Delete pages within each card and they only appeared when the user hovers over the card. When the user clicks the card image, a modal containing all of the production's details appears. 
+One of my tasks was to use CSS to style the index page of the productions area so that each production appeared as a card. I replaced the default index skeleton with a bootstrap card skeleton within a `foreach` loop to show each production in the model. I placed bootstrap pills linking to the Edit and Delete pages within each card and they only appeared when the user hovers over the card. When the user clicks the card image, a modal containing all of the production's details appears. 
 
 The picture below shows the index page view populated with productions. The website used a shared layout and I did not style the navigation bar. You can click [here](./Screenshots) to see other aspects of the styled page.
 
