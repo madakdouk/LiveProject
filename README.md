@@ -1,7 +1,7 @@
 # Live Project
 - [Skills](#skills)
 - [Introduction](#introduction)
-- [Helper method](#helper-method]
+- [Helper method](#helper-method)
 - [Adding search and pagination](#adding-search-and-pagination)
 - [Index page styling](#index-page-styling)
   - [Screenshots](./Screenshots)
