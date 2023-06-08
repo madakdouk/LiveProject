@@ -1,12 +1,10 @@
 # Live Project
-- [Skills](#skills)
 - [Introduction](#introduction)
 - [Helper method](#helper-method)
 - [Adding search and pagination](#adding-search-and-pagination)
 - [Index page styling](#index-page-styling)
   - [Screenshots](./Screenshots)
 - [Conclusion](#conclusion)
-## Skills
 ## Introduction
 I spent the past 2 weeks working with an Agile/Scrum development team made up of my peers at The Tech Academy. During the 2 week sprint, we worked on a content management service website for a theater company. The existing code base was created in C# with ASP.NET MVC and code-first Entity Framework, and both front-end and back-end stories were assigned to us. This offered a great opportunity to not only apply the raw material I learned from The Tech Academy, but to also apply the problem-solving techniques that I learned. My area of focus for the project was the Productions CRUD pages. I encountered many situations that I wasn't familiar with, but I proved to myself that I could find the answers I needed. Of course, if I hit a formidable wall, I knew it was time to ask for help.
 
