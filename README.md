@@ -13,6 +13,7 @@ Outside of the coding aspects, I found the Agile/Scrum project management to be 
 Please continue to see my favorite parts of my contributions.
 
 ## Helper method
+I created a simple method that will truncate text that exceeds a given limit. The truncated text is replaced with an elipsis. This method could be updated in the future to allow for the truncated text to be expanded.
 ```
 public class TextHelpers
     {
